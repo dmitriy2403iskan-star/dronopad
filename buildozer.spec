@@ -5,7 +5,7 @@ package.domain = org.outkit
 source.dir = .
 source.include_exts = py,png,jpg,kv
 version = 0.1
-requirements = python3,kivy==2.3.0,pyjnius,android,openssl,certifi,yt-dlp
+requirements = python3,kivy==2.3.1,pyjnius,android,openssl,certifi,yt-dlp
 orientation = portrait
 fullscreen = 0
 services = downloader:service.py:foreground
