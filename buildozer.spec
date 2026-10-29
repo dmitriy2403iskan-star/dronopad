@@ -1,7 +1,7 @@
 [app]
-title = YT Loader
-package.name = ytloader
-package.domain = org.ytloader
+title = Outkit
+package.name = outkit
+package.domain = org.outkit
 source.dir = .
 source.include_exts = py,png,jpg,kv
 version = 0.1
